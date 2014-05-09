@@ -43,5 +43,8 @@
 		<item name="gms.game.swtor.role.melee"><![CDATA[Melee]]></item>
 		<item name="gms.game.swtor.role.range"><![CDATA[Range]]></item>
 		<item name="gms.game.swtor.role.heal"><![CDATA[Heal]]></item>
+		
+		<item name="gms.game.swtor.faction.empire"><![CDATA[Empire Sith]]></item>
+		<item name="gms.game.swtor.faction.republic"><![CDATA[République galactique]]></item>
 	</category>
 </language>

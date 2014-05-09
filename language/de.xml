@@ -43,5 +43,8 @@
 		<item name="gms.game.swtor.role.melee"><![CDATA[Nahkampf]]></item>
 		<item name="gms.game.swtor.role.range"><![CDATA[Fernkampf]]></item>
 		<item name="gms.game.swtor.role.heal"><![CDATA[Heiler]]></item>
+		
+		<item name="gms.game.swtor.faction.empire"><![CDATA[Imperium]]></item>
+		<item name="gms.game.swtor.faction.republic"><![CDATA[Galaktische Republic]]></item>
 	</category>
 </language>
