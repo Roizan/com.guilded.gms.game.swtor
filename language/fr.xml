@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd">
+	<category name="gms.game">
+		<item name="gms.game.swtor.title"><![CDATA[Star Wars: The Old Republic - Rise of the Hutt Cartel]]></item>
+		<item name="gms.game.swtor.class.agent"><![CDATA[Agent Impérial]]></item>
+		<item name="gms.game.swtor.class.operative"><![CDATA[Agent Secret]]></item>
+		<item name="gms.game.swtor.class.sniper"><![CDATA[Tireur d'élite]]></item>
+		<item name="gms.game.swtor.class.inquisitor"><![CDATA[Inquisiteur Sith]]></item>
+		<item name="gms.game.swtor.class.assassin"><![CDATA[Assassin]]></item>
+		<item name="gms.game.swtor.class.sorcerer"><![CDATA[Sorcier]]></item>
+		<item name="gms.game.swtor.class.warrior"><![CDATA[Guerrier Sith]]></item>
+		<item name="gms.game.swtor.class.juggernaut"><![CDATA[Ravageur]]></item>
+		<item name="gms.game.swtor.class.marauder"><![CDATA[Maraudeur]]></item>
+		<item name="gms.game.swtor.class.hunter"><![CDATA[Chasseur De Primes]]></item>
+		<item name="gms.game.swtor.class.mercenary"><![CDATA[Mercenaire]]></item>
+		<item name="gms.game.swtor.class.powertech"><![CDATA[Spécialiste]]></item>
+		<item name="gms.game.swtor.class.smuggler"><![CDATA[Contrebandier]]></item>
+		<item name="gms.game.swtor.class.scoundrel"><![CDATA[Malfrat]]></item>
+		<item name="gms.game.swtor.class.gunslinger"><![CDATA[Franc-Tireur]]></item>
+		<item name="gms.game.swtor.class.consular"><![CDATA[Jedi Consulaire]]></item>
+		<item name="gms.game.swtor.class.sage"><![CDATA[Érudit]]></item>
+		<item name="gms.game.swtor.class.shadow"><![CDATA[Ombre]]></item>
+		<item name="gms.game.swtor.class.knight"><![CDATA[Chevalier Jedi]]></item>
+		<item name="gms.game.swtor.class.guardian"><![CDATA[Gardien]]></item>
+		<item name="gms.game.swtor.class.sentinel"><![CDATA[Sentinelle]]></item>
+		<item name="gms.game.swtor.class.trooper"><![CDATA[Soldat]]></item>
+		<item name="gms.game.swtor.class.commando"><![CDATA[Commando]]></item>
+		<item name="gms.game.swtor.class.vanguard"><![CDATA[Avant-Garde]]></item>
+
+		<item name="gms.game.swtor.race.cathar"><![CDATA[Cathar]]></item>
+		<item name="gms.game.swtor.race.chiss"><![CDATA[Chiss]]></item>
+		<item name="gms.game.swtor.race.cyborg"><![CDATA[Cyborg]]></item>
+		<item name="gms.game.swtor.race.human"><![CDATA[Human]]></item>
+		<item name="gms.game.swtor.race.miraluka"><![CDATA[Miraluka]]></item>
+		<item name="gms.game.swtor.race.mirialan"><![CDATA[Mirialan]]></item>
+		<item name="gms.game.swtor.race.rattataki"><![CDATA[Rattataki]]></item>
+		<item name="gms.game.swtor.race.sith"><![CDATA[Sith]]></item>
+		<item name="gms.game.swtor.race.twilek"><![CDATA[Twilek]]></item>
+		<item name="gms.game.swtor.race.zabrak"><![CDATA[Zabrak]]></item>
+
+		<item name="gms.game.swtor.role.tank"><![CDATA[Tank]]></item>
+		<item name="gms.game.swtor.role.damagedealer"><![CDATA[Damage]]></item>
+		<item name="gms.game.swtor.role.melee"><![CDATA[Melee]]></item>
+		<item name="gms.game.swtor.role.range"><![CDATA[Range]]></item>
+		<item name="gms.game.swtor.role.heal"><![CDATA[Heal]]></item>
+	</category>
+</language>
