@@ -1,0 +1,10 @@
+$ cat .gitignore
+/.idea
+/optional
+/required
+*.gz
+*.tar
+*.tar.gz
+*.tgz
+*.txt
+*.log

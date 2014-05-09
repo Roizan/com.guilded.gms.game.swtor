@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-class.xsd">
+	<import>
+		<classification name="agent">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer]]></roles>
+			<icon>agent</icon>
+		</classification>
+		<classification name="operative">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,range,melee,heal]]></roles>
+			<icon>operative</icon>
+		</classification>
+		<classification name="sniper">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,range]]></roles>
+			<icon>sniper</icon>
+		</classification>
+		<classification name="inquisitor">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer]]></roles>
+			<icon>inquisitor</icon>
+		</classification>
+		<classification name="sorcerer">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,range,heal]]></roles>
+			<icon>sorcerer</icon>
+		</classification>
+		<classification name="assassin">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[tank,damagedealer,melee]]></roles>
+			<icon>assassin</icon>
+		</classification>
+		<classification name="warrior">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer]]></roles>
+			<icon>warrior</icon>
+		</classification>
+		<classification name="juggernaut">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[tank,damagedealer,melee]]></roles>
+			<icon>juggernaut</icon>
+		</classification>
+		<classification name="marauder">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,melee]]></roles>
+			<icon>marauder</icon>
+		</classification>
+		<classification name="hunter">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer]]></roles>
+			<icon>hunter</icon>
+		</classification>
+		<classification name="mercenary">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,range,heal]]></roles>
+			<icon>mercenary</icon>
+		</classification>
+		
+		<classification name="powertech">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[tank,damagedealer,melee]]></roles>
+			<icon>powertech</icon>
+		</classification>
+		<classification name="smuggler">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer]]></roles>
+			<icon>smuggler</icon>
+		</classification>
+		<classification name="scoundrel">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,range,melee,heal]]></roles>
+			<icon>scoundrel</icon>
+		</classification>
+		<classification name="gunslinger">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,range]]></roles>
+			<icon>gunslinger</icon>
+		</classification>
+		<classification name="consular">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer]]></roles>
+			<icon>consular</icon>
+		</classification>
+		<classification name="sage">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,range,heal]]></roles>
+			<icon>sage</icon>
+		</classification>
+		<classification name="shadow">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[tank,damagedealer,melee]]></roles>
+			<icon>shadow</icon>
+		</classification>
+		<classification name="knight">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer]]></roles>
+			<icon>knight</icon>
+		</classification>
+		<classification name="guardian">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[tank,damagedealer,melee]]></roles>
+			<icon>guardian</icon>
+		</classification>
+		<classification name="sentinel">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,melee]]></roles>
+			<icon>sentinel</icon>
+		</classification>
+		<classification name="trooper">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer]]></roles>
+			<icon>trooper</icon>
+		</classification>
+		<classification name="commando">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[damagedealer,range,heal]]></roles>
+			<icon>commando</icon>
+		</classification>
+		<classification name="vanguard">
+			<races><![CDATA[cathar,chiss,cyborg,human,miraluka,mirialan,rattataki,sith,twilek,zabrak]]></races>
+			<roles><![CDATA[tank,damagedealer,melee]]></roles>
+			<icon>vanguard</icon>
+		</classification>
+	</import>
+</data>

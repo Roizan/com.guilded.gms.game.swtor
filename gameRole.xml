@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-role.xsd">
+	<import>
+		<role name="tank">
+			<icon>tank</icon>
+		</role>
+		<role name="damagedealer">
+			<icon>damagedealer</icon>
+		</role>
+		<role name="melee">
+			<icon>damagedealer</icon>
+		</role>
+		<role name="range">
+			<icon>damagedealer</icon>
+		</role>
+		<role name="heal">
+			<icon>heal</icon>	
+		</role>
+	</import>
+</data>
