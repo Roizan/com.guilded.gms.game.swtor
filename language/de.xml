@@ -12,6 +12,7 @@
 		<item name="gms.game.swtor.class.juggernaut"><![CDATA[Sith-Juggernaut]]></item>
 		<item name="gms.game.swtor.class.marauder"><![CDATA[Sith-Marodeur]]></item>
 		<item name="gms.game.swtor.class.hunter"><![CDATA[Kopfgeldjäger]]></item>
+		<item name="gms.game.swtor.class.mercenary"><![CDATA[Söldner]]></item>
 		<item name="gms.game.swtor.class.powertech"><![CDATA[Powertech]]></item>
 		<item name="gms.game.swtor.class.smuggler"><![CDATA[Schmuggler]]></item>
 		<item name="gms.game.swtor.class.scoundrel"><![CDATA[Schurke]]></item>

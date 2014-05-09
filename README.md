@@ -5,6 +5,7 @@ This package provides support for Star Wars: The Old Republic - Rise of the Hutt
 Improvements since Guilded 1.0:
 - Icons for every specific class
 - Icons in three sizes
+- English language file
 
 License
 -------
