@@ -2,28 +2,28 @@
 <data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-race.xsd">
 	<import>
 		<race name="human">
-			<icon>human</icon>
+			<icon>race/human</icon>
 		</race>
 		<race name="cyborg">
-			<icon>cyborg</icon>
+			<icon>race/cyborg</icon>
 		</race>
 		<race name="sith">
-			<icon>sith</icon>
+			<icon>race/sith</icon>
 		</race>
 		<race name="chiss">
-			<icon>chiss</icon>
+			<icon>race/chiss</icon>
 		</race>
 		<race name="zabrak">
-			<icon>zabrak</icon>
+			<icon>race/zabrak</icon>
 		</race>
 		<race name="mirialan">
-			<icon>mirialan</icon>
+			<icon>race/mirialan</icon>
 		</race>
 		<race name="twilek">
-			<icon>twilek</icon>
+			<icon>race/twilek</icon>
 		</race>
 		<race name="cathar">
-			<icon>cathar</icon>
+			<icon>race/cathar</icon>
 		</race>
 	</import>
 </data>

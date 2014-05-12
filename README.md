@@ -2,7 +2,7 @@ Guilded 2.0: GamePackage for Star Wars: The Old Republic - Rise of the Hutt Cart
 
 This package provides support for Star Wars: The Old Republic - Rise of the Hutt Cartel.
 
-Improvements since Guilded 1.0:
+Improvements since Guilded 1.0 - SWTOR Package:
 - NEW Icons for every specific class including advanced classes
 - Colors of icons and text matching colors ingame
 - English & French language files
