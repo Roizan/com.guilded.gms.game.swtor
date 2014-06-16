@@ -20,7 +20,6 @@
 	
 	<instructions type="install">	
 		<instruction type="file" application="gms">files.tar</instruction>
-		<instruction type="template" application="gms">templates.tar</instruction>
 		<instruction type="game">game.xml</instruction>
 		<instruction type="gameFaction">gameFaction.xml</instruction>
 		<instruction type="gameRace">gameRace.xml</instruction>
