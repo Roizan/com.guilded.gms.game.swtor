@@ -19,6 +19,12 @@
 		<race name="mirialan">
 			<icon>race/mirialan</icon>
 		</race>
+		<race name="miraluka">
+			<icon>race/miraluka</icon>
+		</race>
+		<race name="rattataki">
+			<icon>race/rattataki</icon>
+		</race>
 		<race name="twilek">
 			<icon>race/twilek</icon>
 		</race>
